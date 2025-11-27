@@ -1,0 +1,17 @@
+[
+  {
+    "userName": "Prince",
+    "securityIdentifier": "91919",
+    "cardEnding": "4242",
+    "transactionAmount": "\u20b912,499",
+    "transactionName": "TechMarket Store",
+    "transactionCategory": "E-Commerce",
+    "transactionTime": "2025-07-17 11:33 AM",
+    "transactionLocation": "Mumbai",
+    "securityQuestion": "What is your favorite color?",
+    "securityAnswer": "red",
+    "status": "confirmed_safe",
+    "outcomeNote": "Customer confirmed the transaction as legitimate.",
+    "lastUpdated": "2025-11-27T15:14:37Z"
+  }
+]
